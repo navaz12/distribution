@@ -1,0 +1,9 @@
+---------------------
+ CREDITS
+---------------------
+
+	- Bootstrap 4  -  https://getbootstrap.com
+
+	- Vidim  -  https://originalexe.github.io/vidim/
+
+	- FontAwesome  -  https://fontawesome.com/start
